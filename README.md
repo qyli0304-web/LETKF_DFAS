@@ -72,7 +72,7 @@ If you use this repository in academic work, please cite it appropriately. Sugge
 
 - Project: LETKF_DFAS
 - Authors: Qingyun Li
-- URL: https://github.com/your-org/LETKF_DFAS
+- URL: [https://github.com/your-org/LETKF_DFAS](https://github.com/qyli0304-web/LETKF_DFAS.git)
 - Year: 2025
 
 
