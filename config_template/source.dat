@@ -1,0 +1,19 @@
+[source]
+ID = Cs137
+Abscissa = 81.
+Ordinate = 53.
+Altitude = 25.
+Species = Cs137
+Type = temporal
+Rate = 1e10
+Date_beg = 2023-10-15_00-00-00
+Date_end = 2023-10-16_23-59-00
+TemporalFactor = config/uniform_Cs137_30min.bin
+Date_min_file = 2023-10-15_00-00-00
+Delta_t = 1800
+Velocity = 0.
+Temperature = 0.
+Diameter = 0.
+IsVolumeSource = no
+Source_water = 0.0
+
